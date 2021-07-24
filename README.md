@@ -17,11 +17,12 @@ install screencam over oem, internal audio system record support
 - Run/Execute **install.sh** with Termux/Terminal Emulator/ADB SHELL
 ```sh
 su
+chmod 755 ./install.sh
 ./install.sh
 ```
 OR
 ```sh
-su -c ./install.sh
+su -c 'chmod 755 ./install.sh; ./install.sh'
 ```
 - Reboot/Restart your android device
 
