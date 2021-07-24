@@ -23,6 +23,7 @@ OR
 ```sh
 su -c ./install.sh
 ```
+- Reboot/Restart your android device
 
 ## Important
 - Some android devices will not working
