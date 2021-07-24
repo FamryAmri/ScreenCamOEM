@@ -14,7 +14,7 @@ install screencam over oem, internal audio system record support
 ![....](/assets/oemunlock.jpg)
 
 ## Simply steps
-- Run/Execute **install.sh** with Termux/Terminal Emulator
+- Run/Execute **install.sh** with Termux/Terminal Emulator/ADB SHELL
 ```sh
 su
 ./install.sh
