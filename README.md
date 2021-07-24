@@ -25,7 +25,7 @@ su -c ./install.sh
 ```
 
 ## Important
-- Some android phone is not working
+- Some android devices will not working
 - Internal audio system **WILL NOT** output audio via speaker and earphone. This is **NOT A BUG** and it **CAN'T BE FIX**
 - You can use it without root after installation (need root)
 
