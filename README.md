@@ -11,7 +11,7 @@ install screencam over oem, internal audio system record support
 - YU YUTOPIA (YU5050) with permanent root
 
 ## Make sure you are already turn on OEM unlocking then restart
-![....](/assets/oemunlock.jpg)
+![....](https://raw.githubusercontent.com/FamryAmri/ScreenCamOEM/behind/assets/oemunlock.jpg)
 
 ## Simply steps
 - Run/Execute **install.sh** with Termux/Terminal Emulator/ADB SHELL
