@@ -31,6 +31,10 @@ su -c 'chmod 755 ./install.sh; ./install.sh'
 - Internal audio system **WILL NOT** output audio via speaker and earphone. This is **NOT A BUG** and it **CAN'T BE FIX**
 - You can use it without root after installation (need root)
 
+## Warning
+- You should **TAKE A RISK** for your device, think first before run this script
+- I **WILL NOT** take any response if your device (android phone) has broken system such as bootloop or damaged
+
 ## Credits
 Thanks for **OrpheusDroid**,
 you also can [rate this app](https://play.google.com/store/apps/details?id=com.orpheusdroid.screenrecorder)
