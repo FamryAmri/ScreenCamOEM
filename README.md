@@ -1,6 +1,8 @@
 # ScreenCamOEM
 install screencam over oem, internal audio system record support
 
+[Download here](https://github.com/FamryAmri/ScreenCamOEM/archive/refs/tags/main.zip)
+
 ## Requirements
 - Android 5 and Above (API level 21+)
 - Root access (temp root also can)
